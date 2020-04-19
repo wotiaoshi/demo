@@ -6,7 +6,7 @@ package com.example.demo1.clonetest;
  */
 public class Cat implements Cloneable{
     private String clolor;
-
+奥术大师政策上的支持
     public Cat(String clolor) {
         this.clolor = clolor;
     }
